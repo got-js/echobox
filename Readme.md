@@ -1,1 +1,1 @@
-A node.js app that talks back to you
+A minimal node.js app that echoes back to you

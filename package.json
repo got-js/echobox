@@ -1,5 +1,5 @@
 {
-  "name": "echo",
+  "name": "echobox",
   "version": "0.0.1",
   "description": "A node.js app that talks back to you",
   "main": "server.coffee",

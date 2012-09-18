@@ -4,7 +4,7 @@ http = require("http")
 # Configure our HTTP server to respond with request headers back to all requests.
 server = http.createServer (request, response) ->
   response.writeHead 200,
-    "Content-Type": "text/plain"
+    "Content-Type": "application/json"
   response_object =
     headers: request.headers
     httpVersion: request.httpVersion

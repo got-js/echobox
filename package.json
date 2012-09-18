@@ -10,7 +10,6 @@
   "scripts": {
     "start": "coffee server.coffee"
   },
-  "repository": "",
   "keywords": [
     "nodejs",
     "echo",

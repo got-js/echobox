@@ -10,7 +10,10 @@
   "scripts": {
     "start": "coffee server.coffee"
   },
-  "repository": "https://github.com/got-js/echobox.git",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/got-js/echobox.git"
+  },
   "keywords": [
     "nodejs",
     "echo",
